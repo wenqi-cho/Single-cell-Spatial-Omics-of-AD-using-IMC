@@ -1,0 +1,21 @@
+channel,name,keep,ilastik,deepcell
+ArAr80,80ArAr,1,,
+I127,127I,1,,
+Xe131,131Xe,1,,
+Xe134,134Xe,1,,
+Ba138,138Ba,1,,
+Nd144,Ab,1,,
+Nd146,ApoE,1,,
+Sm147,CD163,1,,
+Sm149,TSPO,1,,
+Gd155,NfL,1,,
+Tb159,CD68,1,,
+Gd160,MAP2,1,,
+Dy162,GFAP,1,,
+Ho165,pTau,1,,
+Tm169,Iba1,1,,
+Yb171,PLP,1,,
+Yb174,HLA-DR,1,,
+Ir191,DNA 1,1,1,1
+Ir193,DNA 2,1,2,2
+Pb208,208Pb,1,,
