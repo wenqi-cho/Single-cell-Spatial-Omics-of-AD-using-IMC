@@ -1,0 +1,13 @@
+﻿Markers,Full name,Description
+Ab,Amyloid-beta,A peptide that accumulates to form amyloid plaques
+ApoE,Apolipoprotein E,A protein involved in lipid metabolism and plays a role in transporting cholesterol in the brain
+CD163,Cluster of Differentiation 163,A marker for microglia with anti-inflammatory properties
+TSPO,Translocator protein,"A marker linked to microglial activation, but also associated with astrocytes (shown in recent studies)"
+NfL,Neurofilament Light Chain,Associated with neurons; used to measure neurodegeneration.
+CD68,Cluster of Differentiation 68,"Associated with activated microglia and macrophages, commonly used to identify phagocytic cells"
+MAP2,Microtubule-Associated Protein 2,"Neuronal marker, involved in maintaining the structure of dendrites and regulating synaptic plasticity in neurons"
+GFAP,Glial Fibrillary Acidic Protein,"A marker for astrocytes, used to identify supportive glial cells that play roles in maintaining neuronal health, regulating blood-brain barrier, etc."
+pTau,Phosphorylated Tau,"Linked to neurofibrillary tangles, associated with neuronal degeneration"
+Iba1,Ionised calcium-binding adapter molecule 1 ,"A marker for microglia, play key role in immune responses in the central nervous system"
+PLP,Proteolipid Protein,"A marker for oligodendrocytes, cells responsible for producing myelin which insulates nerve fibers"
+HLA-DR,Human Leukocyte Antigen-DR,A marker for immune activation particularly in microglia and antigen-presenting cells
