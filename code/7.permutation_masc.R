@@ -7,7 +7,7 @@ library(RColorBrewer)
 library(Seurat)
 library(SeuratObject)
 spe_filtered <- readRDS("spe_filtered1.rds")
-spe_filtered$neuronal <- ifelse(spe_filtered$nn_clusters_corrected14 %in% c(4, 8, 9, 11, 15),
+spe_filtered$neuronal <- ifelse(spe_filtered$nn_clusters_corrected14 %in% c(4, 8, 9, 10, 15),
                                 "Neuronal", "Non-neuronal")
 
 seurat_obj <- as.Seurat(spe_filtered[rowData(spe_filtered)$use_channel], counts = "counts", data = "exprs")
