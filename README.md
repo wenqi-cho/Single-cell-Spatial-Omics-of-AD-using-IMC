@@ -3,7 +3,7 @@ To address the limitations of existing single-cell study methods that lack a spa
 and cellular interactions in AD brain tissues, as well as overcome the challenges facing image
 segmentation in single-cell analysis, this research project aims:
 1) To assess the Steinbock method for internal use on AD post-mortem brain tissues.
-2) To visualise and analyse the spatial distribution of different cell types in AD brain tissues using
+2) To visualise and analyse the spatial distribution of different glial cell types in AD brain tissues using
 IMC images, as well as to investigate the interactions between those cell types.
 3) To explore the specific effects of TREM2 variants (CV, R47H, and R62H) on different cellular
 components including microglia and neurons.
